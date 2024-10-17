@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "dtsi-4.19",
-      "repo": "https://github.com/Redmi-S2-Y2-Resources/msm-4.19",
-      "branch": "base",
+      "name": "kernel",
+      "repo": "https://github.com/Alts-Project/msm-4.19",
+      "branch": "WIP",
       "device": "ysl",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
