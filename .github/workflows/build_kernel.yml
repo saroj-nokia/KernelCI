@@ -241,8 +241,3 @@ jobs:
           tag_name: v${{ env.builddate }}.${{ github.run_number }}
           files: "${{ env.WORKSPACE }}/${{ env.KERNEL_DEVICE }}-${{ env.KERNEL_NAME }}_${{ env.builddate }}.zip"
           generate_release_notes: true
-
-      - name: Upload Telegram
-        run: |
-          wget https://raw.githubusercontent.com/Renzprjkt/KernelCI/ysl-4.9/upload.sh
-          bash upload.sh
