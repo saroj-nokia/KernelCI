@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "kernel",
       "repo": "https://github.com/Alts-Project/kernel_xiaomi_ysl",
-      "branch": "main",
+      "branch": "bpf-next",
       "device": "ysl",
       "defconfig": "ysl_defconfig"
   },
