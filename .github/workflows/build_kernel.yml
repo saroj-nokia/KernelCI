@@ -196,6 +196,10 @@ jobs:
           git config --global user.name "shenprjkt"
           git config --global user.email "shenprjktplayground@gmail.com"
 
+      - name: dtc
+        run: |
+          export DTC_EXT=/usr/bin/dtc
+
       - name: "Build kernel"
         working-directory: ${{ env.KERNEL_NAME }}
         env:
