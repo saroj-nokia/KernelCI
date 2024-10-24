@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/halibw/kernel_msm8953_4.19",
-      "branch": "oxygen/spec/main",
+      "repo": "https://github.com/Alts-Project/msm-4.19-staging",
+      "branch": "LA.UM.9.6.3.r1-06200-89xx.0",
       "device": "ysl",
-      "defconfig": "vendor/msm8953-perf_defconfig"
+      "defconfig": "vendor/ysl_defconfig"
   },
     "toolchains": [
       {
