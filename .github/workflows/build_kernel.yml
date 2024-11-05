@@ -92,7 +92,7 @@ jobs:
 
       - name: "Clone kernel-devicetree source"
         run: |
-          git clone https://github.com/Alts-Project/kernel_devicetree_xiaomi-msm8953 -b qti-haptic --depth=1 kernel/arch/arm64/boot/dts/xiaomi-msm8953
+          git clone https://github.com/Alts-Project/kernel_devicetree_xiaomi-msm8953 -b fts_mainline --depth=1 kernel/arch/arm64/boot/dts/xiaomi-msm8953
 
       - name: "Clone kernel-techpack source"
         run: |
