@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Natsuno-Shosetsu/kernel_msm8953_4.19",
-      "branch": "irqchip/mpm",
+      "repo": "https://github.com/Alts-Project/kernel_xiaomi_ysl_4.19",
+      "branch": "fts_mainline",
       "device": "ysl",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
