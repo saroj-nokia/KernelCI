@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Alts-Project/kernel_xiaomi_ysl_4.19",
-      "branch": "fts_mainline",
-      "device": "ysl",
+      "repo": "https://github.com/MI8953-Project/msm-4.19",
+      "branch": "wip",
+      "device": "tissot",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
     "toolchains": [
@@ -35,8 +35,8 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/ALprjkt/Anykernel3",
-      "branch": "ysl"
+      "repo": "https://github.com/romiyusnandar/Anykernel3",
+      "branch": "tissot"
     }
   }
 ]
