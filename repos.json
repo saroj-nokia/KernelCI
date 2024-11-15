@@ -35,8 +35,8 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/romiyusnandar/Anykernel3",
-      "branch": "tissot"
+      "repo": "https://github.com/k4ngcaribug/Anykernel3",
+      "branch": "ysl"
     }
   }
 ]
