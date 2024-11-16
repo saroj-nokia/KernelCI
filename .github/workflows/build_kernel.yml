@@ -95,7 +95,7 @@ jobs:
 
       - name: "Clone kernel-techpack source"
         run: |
-          git clone https://github.com/Alts-Project/kernel_techpack_ysl -b new-fts --depth=1 kernel/techpack/mi8953
+          git clone https://github.com/MI8953-Project/kernel_techpack_xiaomi-msm8953 -b new-fts --depth=1 kernel/techpack/mi8953
 
       - name: "Clone Clang"
         env:
