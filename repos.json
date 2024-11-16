@@ -4,7 +4,7 @@
       "name": "kernel",
       "repo": "https://github.com/MI8953-Project/android_kernel_xiaomi_msm8953",
       "branch": "dts/haptics",
-      "device": "rosy/tiffany",
+      "device": "rosy",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
     "toolchains": [
