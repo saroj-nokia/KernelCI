@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Redmi-S2-Y2-Resources/kernel_xiaomi_ysl",
-      "branch": "main",
-      "device": "ysl",
-      "defconfig": "ysl_defconfig"
+      "repo": "https://github.com/saroj-nokia/android_kernel_xiaomi_rosy",
+      "branch": "lineage-21.0",
+      "device": "rosy",
+      "defconfig": "rosy-perf_defconfig"
   },
     "toolchains": [
       {
