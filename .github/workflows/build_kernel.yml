@@ -190,8 +190,8 @@ jobs:
 
       - name: Set Git Config
         run: |
-          git config --global user.name "shenprjkt"
-          git config --global user.email "shenprjktplayground@gmail.com"
+          git config --global user.name "saroj-nokia"
+          git config --global user.email "sarojtaj77@gmail.com"
 
       - name: "Build kernel"
         working-directory: ${{ env.KERNEL_NAME }}
